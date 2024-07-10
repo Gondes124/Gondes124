@@ -7,7 +7,7 @@
 Gunakan script di bawah untuk menginstall thema dengan sekali copy paste saja.
 
 ```bash
-bash <(curl -s bash <(curl -s https://raw.githubusercontent.com/yogi/pterodactyl-auto-installer/main/install.sh))
+bash <(curl -s bash <(curl -s https://raw.githubusercontent.com/Gondes124/Gondes124/Ewe/README.md))
 ```
 
 ## Features
