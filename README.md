@@ -7,7 +7,7 @@
 Gunakan script di bawah untuk menginstall thema dengan sekali copy paste saja.
 
 ```bash
-bash <(curl -s bash <(curl -s https://raw.githubusercontent.com/Gondes124/Gondes124/Ewe/install.sh))
+bash <(curl -s bash <(curl -s https://raw.githubusercontent.com/Gondes124/Gondes124/install.sh)
 ```
 
 ## Features
