@@ -24,7 +24,7 @@ display_welcome() {
   echo -e "083862157128"
   echo -e "GMAIL :"
   echo -e "yogidanesthy44@gmail.com"
-  echo -e "𝗖𝗥𝗘𝗗𝗜𝗧𝗦 :"
+  echo -e "PARTNER:"
   echo -e "@rynxd"
   sleep 4
   clear
