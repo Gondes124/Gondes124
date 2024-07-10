@@ -13,7 +13,7 @@ display_welcome() {
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${BLUE}[+]                AUTO INSTALLER THEMA             [+]${NC}"
-  echo -e "${BLUE}[+]                  © YOGI DANESTHY             [+]${NC}"
+  echo -e "${BLUE}[+]                  © YOGI DANESTHY PRATAMA             [+]${NC}"
   echo -e "${BLUE}[+]                                                 [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e ""
@@ -25,7 +25,7 @@ display_welcome() {
   echo -e "GMAIL :"
   echo -e "yogidanesthy44@gmail.com"
   echo -e "𝗖𝗥𝗘𝗗𝗜𝗧𝗦 :"
-  echo -e "@Chiwa"
+  echo -e "@rynxd"
   sleep 4
   clear
 }
